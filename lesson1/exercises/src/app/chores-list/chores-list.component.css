@@ -1,0 +1,10 @@
+.chores{
+    font-family: 'Courier New', Courier, monospace;
+    color: 'blue';
+}
+#choreList{
+    font-style:italic;
+}
+h3 {
+   text-decoration: underline;
+}
